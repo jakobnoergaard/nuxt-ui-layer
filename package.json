@@ -13,11 +13,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.13.0",
-    "vue": "latest"
-  },
-  "devDependencies": {
-    "@nuxt/kit": "^3.13.0"
+    "@nuxt/kit": "^3.13.1",
+    "@nuxtjs/color-mode": "latest",
+    "@nuxtjs/tailwindcss": "latest",
+    "daisyui": "latest",
+    "nuxt": "latest"
   },
   "packageManager": "pnpm@9.8.0+sha512.8e4c3550fb500e808dbc30bb0ce4dd1eb614e30b1c55245f211591ec2cdf9c611cabd34e1364b42f564bd54b3945ed0f49d61d1bbf2ec9bd74b866fcdc723276"
 }
